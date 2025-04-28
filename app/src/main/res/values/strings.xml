@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NFLNews</string>
+    <string name="news">News</string>
+    <string name="schedule">Schedule</string>
+    <string name="depth_chart">Depth Chart</string>
+    <string name="home">home</string>
+    <string name="teams">Teams</string>
+</resources>
