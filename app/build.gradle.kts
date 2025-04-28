@@ -78,4 +78,8 @@ dependencies {
     implementation(libs.koin.compose.navigation)
     implementation(libs.koin.ktor)
 
+    //Coil Image
+    implementation(libs.coil.compose)
+    implementation(libs.coil.network.okhttp)
+
 }

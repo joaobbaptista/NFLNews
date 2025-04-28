@@ -12,7 +12,7 @@ import kotlinx.coroutines.launch
 class TeamsViewModel(
     teamsRepository: TeamsRepository
 ) : ViewModel() {
-    var _state = MutableStateFlow(TeamsState())
+    private var _state = MutableStateFlow(TeamsState())
     val state = _state.asStateFlow()
 
 
